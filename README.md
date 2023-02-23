@@ -12,3 +12,6 @@ This [program](./1-Text_Processing_with_Python/Text_Processing.py) reads from a 
 
 ## Portfolio 2: Word Guessing Game
 This [program](./2-Word_Guessing_Game/Word_Guessing_Game.py) processes [raw text](./2-Word_Guessing_Game/anat19.txt), and extracts tokens and nouns from the text, and simulates a word guessing game using words from the text.
+
+## Portfolio 3: WordNet
+This [pdf](./3-WordNet/WordNet.pdf) contains a python notebook that explores various areas of WordNet, including synsets, hierarchy, morphy, similarity algorithms, SentiWordNet, and collocations.
