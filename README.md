@@ -15,3 +15,6 @@ This [program](./2-Word_Guessing_Game/Word_Guessing_Game.py) processes [raw text
 
 ## Portfolio 3: WordNet
 This [pdf](./3-WordNet/WordNet.pdf) contains a python notebook that explores various areas of WordNet, including synsets, hierarchy, morphy, similarity algorithms, SentiWordNet, and collocations.
+
+## Portfolio 4: N-grams
+This program plays around with using N-grams to classify text. The [first program](./4-Ngrams/Ngrams_Part1.py) extracts unigrams and bigrams from three texts written in three different languages (English, French, Italian). The [second program](./4-Ngrams/Ngrams_Part2.py) uses the unigrams and bigrams to create a probabilistic language model and classify lines of text into three categories based on the language. Additionally, this [document](./4-Ngrams/Narrative.pdf) contains useful information on N-grams and how they are used in natural language processing.
