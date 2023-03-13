@@ -21,3 +21,6 @@ This program plays around with using N-grams to classify text. The [first progra
 
 ## Portfolio 5: Sentence Parsing
 This [document](./5-Sentence_Parsing/Sentence_Parsing.pdf) implements different methods of parsing on a sample sentence.
+
+## Portfolio 6: Building a Corpus
+This [program](./6-Building_A_Corpus/Webcrawler.py) implements a webcrawler and webscraping to build a knowledge base/corpus.
