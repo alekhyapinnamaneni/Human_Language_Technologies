@@ -24,3 +24,6 @@ This [document](./5-Sentence_Parsing/Sentence_Parsing.pdf) implements different 
 
 ## Portfolio 6: Building a Corpus
 This [program](./6-Building_A_Corpus/Webcrawler.py) implements a webcrawler and webscraping to build a knowledge base/corpus.
+
+## Portfolio 7: Text Classification
+This [document](./7-Text_Classification/Text_Classification.pdf) implements text classification on a [dataset](./7-Text_Classification/emails.csv) using 3 methods: naive Bayes, logistc regression, and neural networks. 
