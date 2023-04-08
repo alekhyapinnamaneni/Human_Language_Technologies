@@ -29,4 +29,4 @@ This [program](./6-Building_A_Corpus/Webcrawler.py) implements a webcrawler and 
 This [document](./7-Text_Classification/Text_Classification.pdf) implements text classification on a [dataset](./7-Text_Classification/emails.csv) using 3 methods: naive Bayes, logistc regression, and neural networks. 
 
 ## Portfolio 8: Reading ACL Papers
-This [document](./8-ACL_Paper/ACL_Paper) contains a summary of a paper studying multi-party empathetic dialogue from the 2022 Association for Computational Linguistics conference.
+This [document](./8-ACL_Paper/ACL_Paper.pdf) contains a summary of a paper studying multi-party empathetic dialogue from the 2022 Association for Computational Linguistics conference.
