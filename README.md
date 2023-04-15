@@ -32,4 +32,4 @@ This [document](./7-Text_Classification/Text_Classification.pdf) implements text
 This [document](./8-ACL_Paper/ACL_Paper.pdf) contains a summary of a paper studying multi-party empathetic dialogue from the 2022 Association for Computational Linguistics conference.
 
 ## Portfolio 9: Chatbot Project
-This [program](./9-Chatbot/Chatbot.py) contains an implementation of a simple chatbot that speaks to the user in Shakespearean English using dialogue from Hamlet as its knowledge base. See this [report](./9-Chatbot/Report.pdf) to learn more about how it works.
+This [program](./9-Chatbot/Chatbot.py) contains an implementation of a simple chatbot that speaks to the user in Shakespearean English using dialogue from Hamlet as its knowledge base. See this [report](./9-Chatbot/Report.pdf) to learn more about how the chatbot works.
