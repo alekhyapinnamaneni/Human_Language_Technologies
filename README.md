@@ -35,4 +35,4 @@ This [document](./8-ACL_Paper/ACL_Paper.pdf) contains a summary of a paper study
 This [program](./9-Chatbot/Chatbot.py) contains an implementation of a simple chatbot that speaks to the user in Shakespearean English using dialogue from Hamlet as its knowledge base. See this [report](./9-Chatbot/Report.pdf) to learn more about how the chatbot works.
 
 ## Portfolio 10: Text Classification 2
-This [documeny](./10-Text_Classification_2/hi.txt) implements text classification on a [dataset](./10-Text_Classification_2/hi.txt) using multiple deep learning model variations and embeddings.
+This [document](./10-Text_Classification_2/hi.txt) implements text classification on a [dataset](./10-Text_Classification_2/hi.txt) using multiple deep learning model variations and embeddings.
