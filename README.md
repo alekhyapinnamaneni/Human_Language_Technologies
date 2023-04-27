@@ -36,3 +36,6 @@ This [program](./9-Chatbot/Chatbot.py) contains an implementation of a simple ch
 
 ## Portfolio 10: Text Classification 2
 This [document](./10-Text_Classification_2/Text_Classification_2.pdf) implements text classification on a [dataset](./10-Text_Classification_2/emails.csv) using multiple deep learning model variations and embeddings.
+
+## Summary
+See this [page](./Skills.md) to read about the technical and soft skills I learned throughout the process of building this portfolio.
